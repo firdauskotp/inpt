@@ -25,7 +25,7 @@ python 3.5
 
 ### Current version
 
-0.0.4
+0.0.5
 ### How to use this version
 
 To use this version, you will first need to import it like this:

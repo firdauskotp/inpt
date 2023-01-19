@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: inpt
-Version: 0.0.4
+Version: 0.0.5
 Summary: To help you make inputs of different types in a more convenient manner
 Home-page: https://github.com/firdauskotp/inpt
 Author: firdauskotp
@@ -35,9 +35,12 @@ You can type this in the terminal or command prompt to install this package:
 pip install inpt
 ```
 
+### Minumum requirement
+python 3.5
+
 ### Current version
 
-0.0.4
+0.0.5
 ### How to use this version
 
 To use this version, you will first need to import it like this:
