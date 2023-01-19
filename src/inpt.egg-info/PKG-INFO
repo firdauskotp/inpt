@@ -27,6 +27,17 @@ to
 x = inpt.i(int,"please insert a number")
 ```
 
+### How to install it?
+
+You can type this in the terminal or command prompt to install this package:
+
+```
+pip install inpt
+```
+
+### Current version
+
+0.0.4
 ### How to use this version
 
 To use this version, you will first need to import it like this:
@@ -50,7 +61,8 @@ c = inpt.i(str,"What is your name?")
 
 The output will be:
 
-What is your name?
+
+What is your name?<br>
 &lt;Insert a string here and press enter&gt;
 
 ### This version has to offer:
