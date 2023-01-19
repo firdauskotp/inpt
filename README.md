@@ -12,6 +12,14 @@ to
 x = inpt.i(int,"please insert a number")
 ```
 
+### How to install it?
+
+You can type this in the terminal or command prompt to install this package:
+
+```
+pip install inpt
+```
+
 ### Current version
 
 0.0.4
